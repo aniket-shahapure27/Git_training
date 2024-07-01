@@ -1,2 +1,1 @@
-# Git_training
-This is a first sample commit
+This is a project to be used for first sample commit
